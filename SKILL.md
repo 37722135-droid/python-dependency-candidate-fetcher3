@@ -1,8 +1,7 @@
 ---
-
-name: python-dependency-candidate-fetcher
+name: python-dependency-candidate-fetcher3
 description: Fetch structured Python package candidate lists from pre-collected dependency snapshots for downstream package selection.
---------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # python-dependency-candidate-fetcher
 
